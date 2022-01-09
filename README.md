@@ -1,5 +1,5 @@
 # Main Heading
-this is a ^^paragraph^^.
+this is a **paragraph**.
 
 - item 1
 - item 2
